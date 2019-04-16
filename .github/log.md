@@ -17,3 +17,7 @@ After a quick research I came up with this
 ## Apr 16 07:46PM
 
 Just prepared the script for design versioning and sketch is done
+
+## Apr 16 07:52PM
+
+Uploading the sketch files with the final version, the screen is really simple
