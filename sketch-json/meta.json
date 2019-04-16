@@ -1,0 +1,31 @@
+{
+  "commit": "399b83655ed261b257875cf8e762efa1a649509e",
+  "pagesAndArtboards": {
+    "32F96ECE-9069-42B5-B0F5-C1C25E550EA3": {
+      "name": "Page 1",
+      "artboards": {
+        "4C156FCC-80D9-4F40-962B-EBE849558ED3": {
+          "name": "iPhone XS"
+        }
+      }
+    }
+  },
+  "version": 118,
+  "fonts": ["Lato-Bold", "Lato-Black", "Lato-Semibold"],
+  "compatibilityVersion": 99,
+  "app": "com.bohemiancoding.sketch3",
+  "autosaved": 0,
+  "variant": "NONAPPSTORE",
+  "created": {
+    "commit": "399b83655ed261b257875cf8e762efa1a649509e",
+    "appVersion": "54.1",
+    "build": 76490,
+    "app": "com.bohemiancoding.sketch3",
+    "compatibilityVersion": 99,
+    "version": 118,
+    "variant": "NONAPPSTORE"
+  },
+  "saveHistory": ["NONAPPSTORE.76490"],
+  "appVersion": "54.1",
+  "build": 76490
+}
