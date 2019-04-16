@@ -1,0 +1,16 @@
+{
+  "name": "sync-users-design",
+  "version": "0.0.0",
+  "description": "sync users design assets",
+  "main": "index.js",
+  "repository": "bukinoshita/sync-users-design",
+  "author": "Bu Kinoshita <bukinoshita@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "push": "sketch-json",
+    "pull": "sketch-json --json"
+  },
+  "devDependencies": {
+    "sketch-json-cli": "^0.0.3"
+  }
+}
