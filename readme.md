@@ -1,6 +1,6 @@
 # sync-users-design
 
-> sync slack users design
+> sync slack users design assets
 
 ## Related
 
@@ -15,7 +15,7 @@
 $ yarn
 ```
 
-### 03. Generate sketch file
+### 02. Generate sketch file
 
 ```sh
 $ yarn pull
