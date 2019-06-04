@@ -1092,7 +1092,7 @@ signal-exit@^3.0.0, signal-exit@^3.0.2:
   resolved "https://registry.yarnpkg.com/signal-exit/-/signal-exit-3.0.2.tgz#b5fdc08f1287ea1178628e415e25132b73646c6d"
   integrity sha1-tf3AjxKH6hF4Yo5BXiUTK3NkbG0=
 
-sketch-json-cli@^0.0.3:
+sketch-json-cli@0.0.3:
   version "0.0.3"
   resolved "https://registry.yarnpkg.com/sketch-json-cli/-/sketch-json-cli-0.0.3.tgz#59e58826bfb8ab55abe4f334a87788e217128f3d"
   integrity sha512-ItudFIqn8BRZEH9mLbq0H0ZbOWl3j/3ci6lxh4xewOu6iU91/aZ8khLQSzE/QbE8vOh7P6C2SmC5dHNhTk4k8Q==
