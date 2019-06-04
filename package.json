@@ -11,6 +11,6 @@
     "pull": "sketch-json --json"
   },
   "devDependencies": {
-    "sketch-json-cli": "^0.0.3"
+    "sketch-json-cli": "0.0.3"
   }
 }
